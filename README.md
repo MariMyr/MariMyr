@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariMyr
 - 👀 I’m interested in knitting, beer and books
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning JavaScript!
 - 💞️ I’m looking to collaborate on everything fabulous!
 - 📫 How to reach me mari.myr@gmail.com
 - 😄 Pronouns: she/her
