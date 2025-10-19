@@ -45,9 +45,7 @@ Check out my portfolio: [My Portfolio](https://mari-myrmoen-portfolio.netlify.ap
 ### 📫 Find me online
 - [LinkedIn](https://www.linkedin.com/in/mari-myrmoen-74714b145/)  
 
----
 
-*“Code is like knitting—every stitch counts!”* 🧶
 
 <!---
 MariMyr/MariMyr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
