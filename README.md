@@ -10,8 +10,8 @@ Check out my portfolio: [My Portfolio](https://mari-myrmoen-portfolio.netlify.ap
 ---
 
 ### About me
-- I’m currently studying **Frontend Development** and now learning about **AI driven web applications**  
-- I’m looking for an **internship (LIA-praktik)** starting **January 2026**  
+- I’m currently studying **Frontend Development** and now learning **Next.js**  
+- I have just started my **internship (LIA-praktik)** at **Nexer**!   
 - How to reach me: [mari.myr@gmail.com](mailto:mari.myr@gmail.com)
 - I’m interested in **knitting, beer, and books**  
 
